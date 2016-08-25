@@ -17,7 +17,7 @@
                BlueprintIdentifier = "EC4DBAD31D6969A000867715"
                BuildableName = "swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;.app"
                BlueprintName = "swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;"
-               ReferencedContainer = "container:swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;.xcodeproj">
+               ReferencedContainer = "container:swift2.0&#x73a9;&#x8f6c;UIKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "EC4DBAD31D6969A000867715"
             BuildableName = "swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;.app"
             BlueprintName = "swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;"
-            ReferencedContainer = "container:swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;.xcodeproj">
+            ReferencedContainer = "container:swift2.0&#x73a9;&#x8f6c;UIKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "EC4DBAD31D6969A000867715"
             BuildableName = "swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;.app"
             BlueprintName = "swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;"
-            ReferencedContainer = "container:swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;.xcodeproj">
+            ReferencedContainer = "container:swift2.0&#x73a9;&#x8f6c;UIKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "EC4DBAD31D6969A000867715"
             BuildableName = "swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;.app"
             BlueprintName = "swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;"
-            ReferencedContainer = "container:swift2.0&#x73a9;&#x8f6c;UIKit&#x57fa;&#x7840;&#x7bc7;.xcodeproj">
+            ReferencedContainer = "container:swift2.0&#x73a9;&#x8f6c;UIKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

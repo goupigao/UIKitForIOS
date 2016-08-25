@@ -7,21 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC046B321D6F24890057113E /* CoreAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC046B311D6F24890057113E /* CoreAnimationViewController.swift */; };
+		EC0BCF271D6C224F00F8CE81 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0BCF261D6C224F00F8CE81 /* WebViewController.swift */; };
+		EC0D62A81D6EB88F00A239C5 /* TabViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0D62A71D6EB88F00A239C5 /* TabViewController4.swift */; };
+		EC0D62AA1D6EBB3200A239C5 /* UIViewAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0D62A91D6EBB3200A239C5 /* UIViewAnimationViewController.swift */; };
+		EC0FDB781D6DB7E6002653B2 /* LayoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0FDB771D6DB7E6002653B2 /* LayoutViewController.swift */; };
+		EC0FDB7A1D6DC342002653B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC0FDB791D6DC342002653B2 /* Assets.xcassets */; };
+		EC0FDB7C1D6DF9C6002653B2 /* NavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0FDB7B1D6DF9C6002653B2 /* NavigationViewController.swift */; };
+		EC14B1191D6D69C20088B103 /* StackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC14B1181D6D69C20088B103 /* StackViewController.swift */; };
+		EC20472C1D6C7201007297F0 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC20472B1D6C7201007297F0 /* TableViewController.swift */; };
+		EC20472E1D6C8B61007297F0 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC20472D1D6C8B61007297F0 /* CollectionViewController.swift */; };
+		EC2047301D6C9BC7007297F0 /* CustomCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC20472F1D6C9BC7007297F0 /* CustomCollectionViewController.swift */; };
+		EC2047321D6C9C5D007297F0 /* MyLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC2047311D6C9C5D007297F0 /* MyLayout.swift */; };
+		EC2047341D6CA98A007297F0 /* MyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC2047331D6CA98A007297F0 /* MyCell.swift */; };
+		EC4D6F811D6E78D1005C9A15 /* TabViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4D6F801D6E78D1005C9A15 /* TabViewController1.swift */; };
+		EC4D6F831D6E7E91005C9A15 /* TabViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4D6F821D6E7E91005C9A15 /* TabViewController2.swift */; };
+		EC4D6F851D6E852D005C9A15 /* TabViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4D6F841D6E852D005C9A15 /* TabViewController3.swift */; };
 		EC4DBAD81D6969A000867715 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4DBAD71D6969A000867715 /* AppDelegate.swift */; };
-		EC4DBADA1D6969A000867715 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4DBAD91D6969A000867715 /* ViewController.swift */; };
+		EC4DBADA1D6969A000867715 /* BasicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4DBAD91D6969A000867715 /* BasicViewController.swift */; };
 		EC4DBADD1D6969A000867715 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC4DBADB1D6969A000867715 /* Main.storyboard */; };
-		EC4DBADF1D6969A100867715 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC4DBADE1D6969A100867715 /* Assets.xcassets */; };
 		EC4DBAE21D6969A100867715 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC4DBAE01D6969A100867715 /* LaunchScreen.storyboard */; };
+		EC4DBAEA1D69F5C300867715 /* CycleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4DBAE91D69F5C300867715 /* CycleViewController.swift */; };
+		EC4DBAEC1D69FC5100867715 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4DBAEB1D69FC5100867715 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC046B311D6F24890057113E /* CoreAnimationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreAnimationViewController.swift; sourceTree = "<group>"; };
+		EC0BCF261D6C224F00F8CE81 /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		EC0D62A71D6EB88F00A239C5 /* TabViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabViewController4.swift; sourceTree = "<group>"; };
+		EC0D62A91D6EBB3200A239C5 /* UIViewAnimationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewAnimationViewController.swift; sourceTree = "<group>"; };
+		EC0FDB771D6DB7E6002653B2 /* LayoutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutViewController.swift; sourceTree = "<group>"; };
+		EC0FDB791D6DC342002653B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EC0FDB7B1D6DF9C6002653B2 /* NavigationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationViewController.swift; sourceTree = "<group>"; };
+		EC14B1181D6D69C20088B103 /* StackViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StackViewController.swift; sourceTree = "<group>"; };
+		EC20472B1D6C7201007297F0 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		EC20472D1D6C8B61007297F0 /* CollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		EC20472F1D6C9BC7007297F0 /* CustomCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewController.swift; sourceTree = "<group>"; };
+		EC2047311D6C9C5D007297F0 /* MyLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyLayout.swift; sourceTree = "<group>"; };
+		EC2047331D6CA98A007297F0 /* MyCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCell.swift; sourceTree = "<group>"; };
+		EC4D6F801D6E78D1005C9A15 /* TabViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabViewController1.swift; sourceTree = "<group>"; };
+		EC4D6F821D6E7E91005C9A15 /* TabViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabViewController2.swift; sourceTree = "<group>"; };
+		EC4D6F841D6E852D005C9A15 /* TabViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabViewController3.swift; sourceTree = "<group>"; };
 		EC4DBAD41D6969A000867715 /* swift2.0玩转UIKit基础篇.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift2.0玩转UIKit基础篇.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC4DBAD71D6969A000867715 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		EC4DBAD91D6969A000867715 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EC4DBAD91D6969A000867715 /* BasicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicViewController.swift; sourceTree = "<group>"; };
 		EC4DBADC1D6969A000867715 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EC4DBADE1D6969A100867715 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC4DBAE11D6969A100867715 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC4DBAE31D6969A100867715 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC4DBAE91D69F5C300867715 /* CycleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CycleViewController.swift; sourceTree = "<group>"; };
+		EC4DBAEB1D69FC5100867715 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,10 +89,27 @@
 			isa = PBXGroup;
 			children = (
 				EC4DBAD71D6969A000867715 /* AppDelegate.swift */,
-				EC4DBAD91D6969A000867715 /* ViewController.swift */,
+				EC4DBAEB1D69FC5100867715 /* ViewController.swift */,
+				EC4D6F801D6E78D1005C9A15 /* TabViewController1.swift */,
+				EC0FDB7B1D6DF9C6002653B2 /* NavigationViewController.swift */,
+				EC4DBAE91D69F5C300867715 /* CycleViewController.swift */,
+				EC4D6F821D6E7E91005C9A15 /* TabViewController2.swift */,
+				EC4DBAD91D6969A000867715 /* BasicViewController.swift */,
+				EC0BCF261D6C224F00F8CE81 /* WebViewController.swift */,
+				EC20472B1D6C7201007297F0 /* TableViewController.swift */,
+				EC2047331D6CA98A007297F0 /* MyCell.swift */,
+				EC20472D1D6C8B61007297F0 /* CollectionViewController.swift */,
+				EC2047311D6C9C5D007297F0 /* MyLayout.swift */,
+				EC20472F1D6C9BC7007297F0 /* CustomCollectionViewController.swift */,
+				EC4D6F841D6E852D005C9A15 /* TabViewController3.swift */,
+				EC0FDB771D6DB7E6002653B2 /* LayoutViewController.swift */,
+				EC14B1181D6D69C20088B103 /* StackViewController.swift */,
+				EC0D62A71D6EB88F00A239C5 /* TabViewController4.swift */,
+				EC0D62A91D6EBB3200A239C5 /* UIViewAnimationViewController.swift */,
+				EC046B311D6F24890057113E /* CoreAnimationViewController.swift */,
 				EC4DBADB1D6969A000867715 /* Main.storyboard */,
-				EC4DBADE1D6969A100867715 /* Assets.xcassets */,
 				EC4DBAE01D6969A100867715 /* LaunchScreen.storyboard */,
+				EC0FDB791D6DC342002653B2 /* Assets.xcassets */,
 				EC4DBAE31D6969A100867715 /* Info.plist */,
 			);
 			path = "swift2.0玩转UIKit基础篇";
@@ -96,10 +147,11 @@
 				TargetAttributes = {
 					EC4DBAD31D6969A000867715 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 8F82ZML2S6;
 					};
 				};
 			};
-			buildConfigurationList = EC4DBACF1D6969A000867715 /* Build configuration list for PBXProject "swift2.0玩转UIKit基础篇" */;
+			buildConfigurationList = EC4DBACF1D6969A000867715 /* Build configuration list for PBXProject "swift2.0玩转UIKit" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -123,7 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC4DBAE21D6969A100867715 /* LaunchScreen.storyboard in Resources */,
-				EC4DBADF1D6969A100867715 /* Assets.xcassets in Resources */,
+				EC0FDB7A1D6DC342002653B2 /* Assets.xcassets in Resources */,
 				EC4DBADD1D6969A000867715 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -135,7 +187,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EC4DBADA1D6969A000867715 /* ViewController.swift in Sources */,
+				EC4DBAEA1D69F5C300867715 /* CycleViewController.swift in Sources */,
+				EC0FDB7C1D6DF9C6002653B2 /* NavigationViewController.swift in Sources */,
+				EC20472C1D6C7201007297F0 /* TableViewController.swift in Sources */,
+				EC0BCF271D6C224F00F8CE81 /* WebViewController.swift in Sources */,
+				EC4DBADA1D6969A000867715 /* BasicViewController.swift in Sources */,
+				EC20472E1D6C8B61007297F0 /* CollectionViewController.swift in Sources */,
+				EC0FDB781D6DB7E6002653B2 /* LayoutViewController.swift in Sources */,
+				EC0D62A81D6EB88F00A239C5 /* TabViewController4.swift in Sources */,
+				EC2047341D6CA98A007297F0 /* MyCell.swift in Sources */,
+				EC2047301D6C9BC7007297F0 /* CustomCollectionViewController.swift in Sources */,
+				EC4DBAEC1D69FC5100867715 /* ViewController.swift in Sources */,
+				EC4D6F811D6E78D1005C9A15 /* TabViewController1.swift in Sources */,
+				EC2047321D6C9C5D007297F0 /* MyLayout.swift in Sources */,
+				EC4D6F851D6E852D005C9A15 /* TabViewController3.swift in Sources */,
+				EC0D62AA1D6EBB3200A239C5 /* UIViewAnimationViewController.swift in Sources */,
+				EC046B321D6F24890057113E /* CoreAnimationViewController.swift in Sources */,
+				EC4D6F831D6E7E91005C9A15 /* TabViewController2.swift in Sources */,
+				EC14B1191D6D69C20088B103 /* StackViewController.swift in Sources */,
 				EC4DBAD81D6969A000867715 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -251,6 +320,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "swift2.0玩转UIKit基础篇/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.goupigao.swift2-0--UIKit---";
@@ -262,6 +332,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "swift2.0玩转UIKit基础篇/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.goupigao.swift2-0--UIKit---";
@@ -272,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EC4DBACF1D6969A000867715 /* Build configuration list for PBXProject "swift2.0玩转UIKit基础篇" */ = {
+		EC4DBACF1D6969A000867715 /* Build configuration list for PBXProject "swift2.0玩转UIKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EC4DBAE41D6969A100867715 /* Debug */,
@@ -288,6 +359,7 @@
 				EC4DBAE81D6969A100867715 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
